@@ -3,7 +3,7 @@ TD-MPC Paper Replication and Ablation Study
 
 ---
 
-In this study, we tested 3 hypotheses stated by the authors of the model-based RL algorithm, called TD-MPC, but for which no code was provided. We also checked whether our findings coincide with the authors' statements or not (it turned out that they do are not the same in all cases).
+In this study, we tested 3 hypotheses stated by the authors of the model-based RL algorithm, called TD-MPC, but for which no code was provided. We also checked whether our findings coincide with the authors' statements or not (it turned out that they are not the same in some cases).
 
 
 **Hypotheses:**
